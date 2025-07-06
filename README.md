@@ -68,7 +68,7 @@ EDUTUTOR-AI/
 
 Because of GitHub’s file size limitations, you can watch the full working demo of EduTutor AI here:
 
-▶️ [Click to Watch the Demo on Google Drive](https://drive.google.com/file/d/1arj4MLp-igd9wb6yjFHY8nx8VACvRBTp/view?usp=sharing)
+▶️ [Click to Watch the Demo on Google Drive](https://drive.google.com/file/d/1_KML1A0mKYwjGWy3Iy3IJ8J5I32RBkvq/view?usp=sharing)
 
 
 ----------------------
@@ -112,7 +112,8 @@ pip install -r requirements.txt
 - LangChain `PromptTemplate` dynamically forms questions
 - Output parsed into quiz-ready JSON
 ---
-![Screenshot 2025-06-25 230327](https://github.com/user-attachments/assets/7e09eaa3-0255-455f-9a34-afd29a08c3d3)
+![Screenshot 2025-07-06 143340](https://github.com/user-attachments/assets/539bf78e-2f73-4503-b750-9210744ab04a)
+
 
 ---
 
@@ -126,8 +127,10 @@ pip install -r requirements.txt
 - Embeddings stored for each user
 - Metadata like quiz scores, topics, dates
 - Vector similarity used for personalized quiz suggestions
+
   ---
-![Screenshot 2025-06-25 230657](https://github.com/user-attachments/assets/9ce50300-c06b-4064-9b76-7abcf3fc99f7)
+![Screenshot 2025-07-06 143348](https://github.com/user-attachments/assets/62306587-4fb5-4372-bef3-5b7bb4bffdd2)
+
 ---
 
 ### Streamlit Frontend
@@ -217,8 +220,8 @@ We welcome contributors! Please fork this repo, create a new branch, and raise a
 
 ## 📬 Contact
 
-- 📧 [Email](mailto:saireddy.annamareddy@gmail.com)
-- 🐛 Issues: [Open a GitHub Issue](https://github.com/SaiReddyA-1/EduTutor-AI__personalized-learning-with-generative-ai-and-lms-integration/issues)
+- 📧 [Email](mailto:navyasweety235@gmail.com)
+- 🐛 Issues: [Open a GitHub Issue](https://github.com/Navyasri-V/EduTutor-AI__personalized-learning-with-generative-ai-and-lms-integration/issues)
 
 ---
 
